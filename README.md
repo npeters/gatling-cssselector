@@ -1,5 +1,6 @@
 # Motivation
 gatling-cssselector is an extension for the [Gatling](https://github.com/excilys/gatling) stress tool that provides CSS Selector extraction based on [CSSelly](http://jodd.org/doc/csselly/) contains in project [jodd](http://jodd.org).
+
 gatling-cssselector is inspired of [gatling-vtd](https://github.com/excilys/gatling-vtd)
 
 CSSelly is a Java implementation of the W3C Selectors Level 3 specification..

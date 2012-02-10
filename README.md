@@ -41,6 +41,6 @@ This will let you use the new extractor builtins. The syntax is similar to the s
 
     check(cssSelector("#loginForm fieldset legend",innerHtml _).eq("Please log in"))
 	
-# Important notice : licence
+# Important notice : license
 
 CSSelly use a BSD licence.

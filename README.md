@@ -43,4 +43,4 @@ This will let you use the new extractor builtins. The syntax is similar to the s
 	
 # Important notice : license
 
-CSSelly use a BSD licence.
+CSSelly use a BSD license.

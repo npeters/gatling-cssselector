@@ -1,0 +1,1 @@
+import gatling.cssselector.http.check.body.HttpBodyCssSelectorCheckBuilder._

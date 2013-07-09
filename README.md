@@ -38,7 +38,7 @@ If you use the scala format, add the following import :
 
     import gatling.cssselector.http.check.body.HttpBodyCssSelectorCheckBuilder._
 
-This will let you use the new extractor builtins. The syntax is similar to the standard XPath one, just replace the prefix "xpath" with "vtdXpath". For example :
+This will let you use the new extractor builtins.
 
     check(cssSelector("#loginForm fieldset legend",innerHtml _).eq("Please log in"))
 	
